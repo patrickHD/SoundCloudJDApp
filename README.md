@@ -21,7 +21,16 @@ And album art will look like this:
 
   Seven Lions & Jason Ross feat. Paul Meany - Higher Love_500x500_ - Anjunabeats.jpg
   
-The front cover, album name and artist name are added buy doing some string magic that you can see in MainForm.cs
+The album name and artist name are added buy doing some string magic that you can see in MainForm.cs (Album is the song name and artist is the artist)
 
+Useage:
+
+1: Set JD2 to download album art as well as songs
+
+2: Download the music and art to a folder
+
+3: Run SCJDApp and set the mode to tag mode
+
+4: Profit
 
 Have fun.
